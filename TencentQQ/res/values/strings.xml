@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">阳光悦跑</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="call">Call</string>
+    <string name="delete">Delete</string>
+    <string name="conversation1">朋友圈</string>
+    <string name="conversation2">跑步计划</string>
+    <string name="conversation3">发起跑步</string>
+    <string name="conversation4">一键求救</string>
+    <string name="conversation5">我的电脑</string>
+    <string name="conversation6">加好友</string>
+
+</resources>
